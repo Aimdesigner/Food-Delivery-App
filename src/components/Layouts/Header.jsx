@@ -1,7 +1,6 @@
 import { React, useState } from 'react'
 import { Container, Nav, Navbar } from 'react-bootstrap'
 import '../../styles/HeaderStyle.css'
-import '../../styles/HeaderStyle.scss'
 import { Link } from 'react-router-dom'
 import Logo from '../../assets/logo/logo.png'
 import { assets } from '../../assets/assets'
